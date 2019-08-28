@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/VKalva0321/Pipeline%20Demo/_apis/build/status/venkikalva.pipelines-java?branchName=master)](https://dev.azure.com/VKalva0321/Pipeline%20Demo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
